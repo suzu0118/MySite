@@ -1,0 +1,14 @@
+body{
+  margin:64px;
+}
+h1{
+  border-left:solid red 8px;
+  padding-left:16px;
+}
+p{
+  font-size:24px;
+}
+.container p{
+
+  margin-bottom:64px;
+}
